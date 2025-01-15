@@ -81,3 +81,9 @@ h1 {
 .delete-btn{
     color: #dc3545;
 }
+
+h6{
+    text-align: center;
+    color: #888;
+    margin-top: 1px;
+}
